@@ -1,0 +1,216 @@
+@font-face {
+   font-family: "DecoType Naskh Regular";
+   src: url("fonts/DecoType%20Naskh%20Regular.html") format("woff"), url("fonts/DecoType%20Naskh%20Regular-2.html") format("embedded-opentype"), url("fonts/DecoType%20Naskh%20Regular-3.html") format("truetype"), url("fonts/DecoType%20Naskh%20Regular-4.html") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Dancing Script";
+   src: url("fonts/Dancing%20Script.woff") format("woff"), url("fonts/Dancing%20Script.eot") format("embedded-opentype"), url("fonts/Dancing%20Script.TTF") format("truetype"), url("fonts/Dancing%20Script.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Dancing Script";
+   src: url("fonts/Dancing%20Script%20Bold.woff") format("woff"), url("fonts/Dancing%20Script%20Bold.eot") format("embedded-opentype"), url("fonts/Dancing%20Script%20Bold.TTF") format("truetype"), url("fonts/Dancing%20Script%20Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Oswald Regular";
+   src: url("fonts/Oswald-Regular.woff") format("woff"), url("fonts/Oswald-Regular.eot") format("embedded-opentype"), url("fonts/Oswald-Regular.ttf") format("truetype"), url("fonts/Oswald-Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Oswald Regular";
+   src: url("fonts/Oswald%20Regular.woff") format("woff"), url("fonts/Oswald%20Regular.eot") format("embedded-opentype"), url("fonts/Oswald%20Regular.ttf") format("truetype"), url("fonts/Oswald%20Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Open Sans Semibold";
+   src: url("fonts/Open%20Sans%20Semibold%20Italic.woff") format("woff"), url("fonts/Open%20Sans%20Semibold%20Italic.eot") format("embedded-opentype"), url("fonts/Open%20Sans%20Semibold%20Italic.ttf") format("truetype"), url("fonts/Open%20Sans%20Semibold%20Italic.svg") format("svg");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Open Sans Semibold";
+   src: url("fonts/Open%20Sans%20Semibold.woff") format("woff"), url("fonts/Open%20Sans%20Semibold.eot") format("embedded-opentype"), url("fonts/Open%20Sans%20Semibold.ttf") format("truetype"), url("fonts/Open%20Sans%20Semibold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald%20Bold.woff") format("woff"), url("fonts/Oswald%20Bold.eot") format("embedded-opentype"), url("fonts/Oswald%20Bold.ttf") format("truetype"), url("fonts/Oswald%20Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald%20BoldItalic.woff") format("woff"), url("fonts/Oswald%20BoldItalic.eot") format("embedded-opentype"), url("fonts/Oswald%20BoldItalic.ttf") format("truetype"), url("fonts/Oswald%20BoldItalic.svg") format("svg");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald%20Demi-BoldItalic.woff") format("woff"), url("fonts/Oswald%20Demi-BoldItalic.eot") format("embedded-opentype"), url("fonts/Oswald%20Demi-BoldItalic.ttf") format("truetype"), url("fonts/Oswald%20Demi-BoldItalic.svg") format("svg");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald%20DemiBold.woff") format("woff"), url("fonts/Oswald%20DemiBold.eot") format("embedded-opentype"), url("fonts/Oswald%20DemiBold.ttf") format("truetype"), url("fonts/Oswald%20DemiBold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald%20Extra-LightItalic.woff") format("woff"), url("fonts/Oswald%20Extra-LightItalic.eot") format("embedded-opentype"), url("fonts/Oswald%20Extra-LightItalic.ttf") format("truetype"), url("fonts/Oswald%20Extra-LightItalic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald%20ExtraLight.woff") format("woff"), url("fonts/Oswald%20ExtraLight.eot") format("embedded-opentype"), url("fonts/Oswald%20ExtraLight.ttf") format("truetype"), url("fonts/Oswald%20ExtraLight.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald%20Heavy.woff") format("woff"), url("fonts/Oswald%20Heavy.eot") format("embedded-opentype"), url("fonts/Oswald%20Heavy.ttf") format("truetype"), url("fonts/Oswald%20Heavy.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald%20HeavyItalic.woff") format("woff"), url("fonts/Oswald%20HeavyItalic.eot") format("embedded-opentype"), url("fonts/Oswald%20HeavyItalic.ttf") format("truetype"), url("fonts/Oswald%20HeavyItalic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald%20Light.woff") format("woff"), url("fonts/Oswald%20Light.eot") format("embedded-opentype"), url("fonts/Oswald%20Light.ttf") format("truetype"), url("fonts/Oswald%20Light.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald%20LightItalic.woff") format("woff"), url("fonts/Oswald%20LightItalic.eot") format("embedded-opentype"), url("fonts/Oswald%20LightItalic.ttf") format("truetype"), url("fonts/Oswald%20LightItalic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald%20Medium.woff") format("woff"), url("fonts/Oswald%20Medium.eot") format("embedded-opentype"), url("fonts/Oswald%20Medium.ttf") format("truetype"), url("fonts/Oswald%20Medium.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald%20MediumItalic.woff") format("woff"), url("fonts/Oswald%20MediumItalic.eot") format("embedded-opentype"), url("fonts/Oswald%20MediumItalic.ttf") format("truetype"), url("fonts/Oswald%20MediumItalic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald%20RegularItalic.woff") format("woff"), url("fonts/Oswald%20RegularItalic.eot") format("embedded-opentype"), url("fonts/Oswald%20RegularItalic.ttf") format("truetype"), url("fonts/Oswald%20RegularItalic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald-Bold.woff") format("woff"), url("fonts/Oswald-Bold.eot") format("embedded-opentype"), url("fonts/Oswald-Bold.ttf") format("truetype"), url("fonts/Oswald-Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald-DemiBold.woff") format("woff"), url("fonts/Oswald-DemiBold.eot") format("embedded-opentype"), url("fonts/Oswald-DemiBold.ttf") format("truetype"), url("fonts/Oswald-DemiBold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald-ExtraLight.woff") format("woff"), url("fonts/Oswald-ExtraLight.eot") format("embedded-opentype"), url("fonts/Oswald-ExtraLight.ttf") format("truetype"), url("fonts/Oswald-ExtraLight.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald-Heavy.woff") format("woff"), url("fonts/Oswald-Heavy.eot") format("embedded-opentype"), url("fonts/Oswald-Heavy.ttf") format("truetype"), url("fonts/Oswald-Heavy.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald-Light.woff") format("woff"), url("fonts/Oswald-Light.eot") format("embedded-opentype"), url("fonts/Oswald-Light.ttf") format("truetype"), url("fonts/Oswald-Light.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald-Medium.woff") format("woff"), url("fonts/Oswald-Medium.eot") format("embedded-opentype"), url("fonts/Oswald-Medium.ttf") format("truetype"), url("fonts/Oswald-Medium.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald-Regular.woff") format("woff"), url("fonts/Oswald-Regular.eot") format("embedded-opentype"), url("fonts/Oswald-Regular.ttf") format("truetype"), url("fonts/Oswald-Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald-Demi-BoldItalic.woff") format("woff"), url("fonts/Oswald-Demi-BoldItalic.eot") format("embedded-opentype"), url("fonts/Oswald-Demi-BoldItalic.ttf") format("truetype"), url("fonts/Oswald-Demi-BoldItalic.svg") format("svg");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald-BoldItalic.woff") format("woff"), url("fonts/Oswald-BoldItalic.eot") format("embedded-opentype"), url("fonts/Oswald-BoldItalic.ttf") format("truetype"), url("fonts/Oswald-BoldItalic.svg") format("svg");
+   font-weight: bold;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald-MediumItalic.woff") format("woff"), url("fonts/Oswald-MediumItalic.eot") format("embedded-opentype"), url("fonts/Oswald-MediumItalic.ttf") format("truetype"), url("fonts/Oswald-MediumItalic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald-RegularItalic.woff") format("woff"), url("fonts/Oswald-RegularItalic.eot") format("embedded-opentype"), url("fonts/Oswald-RegularItalic.ttf") format("truetype"), url("fonts/Oswald-RegularItalic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald-Extra-LightItalic.woff") format("woff"), url("fonts/Oswald-Extra-LightItalic.eot") format("embedded-opentype"), url("fonts/Oswald-Extra-LightItalic.ttf") format("truetype"), url("fonts/Oswald-Extra-LightItalic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald-HeavyItalic.woff") format("woff"), url("fonts/Oswald-HeavyItalic.eot") format("embedded-opentype"), url("fonts/Oswald-HeavyItalic.ttf") format("truetype"), url("fonts/Oswald-HeavyItalic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Oswald";
+   src: url("fonts/Oswald-LightItalic.woff") format("woff"), url("fonts/Oswald-LightItalic.eot") format("embedded-opentype"), url("fonts/Oswald-LightItalic.ttf") format("truetype"), url("fonts/Oswald-LightItalic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
+@font-face {
+   font-family: "Bebas Neue Bold";
+   src: url("fonts/BebasNeueBold.woff") format("woff"), url("fonts/BebasNeueBold.eot") format("embedded-opentype"), url("fonts/BebasNeueBold.otf") format("opentype");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Dancing Script Bold";
+   src: url("fonts/Dancing%20Script%20Bold.woff") format("woff"), url("fonts/Dancing%20Script%20Bold.eot") format("embedded-opentype"), url("fonts/Dancing%20Script%20Bold.TTF") format("truetype"), url("fonts/Dancing%20Script%20Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}

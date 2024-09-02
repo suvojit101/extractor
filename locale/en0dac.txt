@@ -1,0 +1,235 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_5AC282A0_48B3_C579_41CE_F53A3FAD15FE.source = http://techconjurer.com/
+LinkBehaviour_5AC3EAFC_48B3_5AC9_41B7_9A120252909E.source = http://techconjurer.com/
+LinkBehaviour_5A8AF16D_48B3_47CB_41C5_BACBDBB2F63D.source = http://techconjurer.com/
+LinkBehaviour_5AEC6893_48B3_C55F_41B3_60A040D59480.source = http://techconjurer.com/
+LinkBehaviour_5AE34B8A_48B3_BB49_41A8_3F57E0118C76.source = http://techconjurer.com/
+LinkBehaviour_5A8ED800_48B3_4539_41C9_B1D775A931E0.source = http://techconjurer.com/
+LinkBehaviour_5AFBDAEA_48B0_FAC9_418A_04A2B5338764.source = http://techconjurer.com/
+LinkBehaviour_5AE6C74E_48B1_4BC9_41C9_A2931FAE8224.source = http://techconjurer.com/
+LinkBehaviour_5AD2A903_48B1_C73F_41CE_9E69A500AD29.source = http://techconjurer.com/
+LinkBehaviour_5ACF28DB_48B1_C6CF_41CA_15B60CF6F2FF.source = http://techconjurer.com/
+LinkBehaviour_5A1E88EE_48B1_46C9_41B8_5B02B2D37D18.source = http://techconjurer.com/
+LinkBehaviour_5ACE13F8_48B0_CAC9_41B4_FEB0BF62C5B7.source = http://techconjurer.com/
+LinkBehaviour_5A3E071F_48BF_4B47_41A6_834CAE4968D3.source = http://techconjurer.com/
+LinkBehaviour_5AD56295_48BF_C55B_41AA_F11AC3C66ECB.source = http://techconjurer.com/
+LinkBehaviour_5AD57983_48BF_C73F_41C5_81BE31BBD4AC.source = http://techconjurer.com/
+LinkBehaviour_5A339A87_48BF_4547_41CB_9FB52EE9C70C.source = http://techconjurer.com/
+LinkBehaviour_5AC9DAA3_48B0_C57F_41BA_E58686E66713.source = http://techconjurer.com/
+LinkBehaviour_5A3A5E67_48B1_7DC7_419F_97C1409BB72A.source = http://techconjurer.com/
+LinkBehaviour_5A39B440_48B1_CD39_41CE_A235F7330D32.source = http://techconjurer.com/
+LinkBehaviour_5AC14BBD_48B1_DB4B_41D0_3833DEE60D10.source = http://techconjurer.com/
+LinkBehaviour_5AC46CB5_48B1_7D5B_419F_B0CC4689F53E.source = http://techconjurer.com/
+LinkBehaviour_5A3A6E26_48B0_FD79_41AE_1310B520D7E7.source = http://techconjurer.com/
+LinkBehaviour_5A03E54E_48B7_CFC9_419C_E5D62903C345.source = http://techconjurer.com/
+LinkBehaviour_5A7B2F5A_48B7_DBC9_41C6_3E5665680207.source = http://techconjurer.com/
+LinkBehaviour_5ACDBB2E_48B3_DB49_41C7_C277E892773C.source = http://techconjurer.com/
+LinkBehaviour_5A3B3C75_48B3_7DDB_41D1_4FC2D6163D15.source = http://techconjurer.com/
+LinkBehaviour_5BA5CC0C_48B1_7D49_41D2_0DDC08ED7F2A.source = http://techconjurer.com/
+LinkBehaviour_5A4AAFD0_48B1_FAD9_41BA_4BAF2B05D439.source = http://techconjurer.com/
+LinkBehaviour_5A70D628_48B1_4D49_41D0_D21F5CDE6C36.source = http://techconjurer.com/
+LinkBehaviour_5A78B70F_48B0_CB47_4196_7272DDB832ED.source = http://techconjurer.com/
+LinkBehaviour_5A790261_48B0_C5FB_41BD_7B8133434956.source = http://techconjurer.com/
+LinkBehaviour_5A794249_48B7_45CB_419D_EB32BA6B995A.source = http://techconjurer.com/
+LinkBehaviour_0D11FCDC_47A2_A1EC_41A8_C7343FA9EE64.source = https://api.whatsapp.com/send/?phone=917972390491&text&type=phone_number&app_absent=0
+LinkBehaviour_021EE87C_475F_A0AC_41D0_2A71BBC4F0B4.source = https://api.whatsapp.com/send/?phone=917972390491&text&type=phone_number&app_absent=0
+LinkBehaviour_9910C4EA_868A_9C5B_41DB_A28DAF150398.source = https://pontbleusuites.in/
+LinkBehaviour_A7E5C727_868F_9DC9_41DB_6FA65E5BCAFE.source = https://pontbleusuites.in/
+LinkBehaviour_21F9C5E1_3A70_6B7D_41C7_51C790B794FB.source = https://pontbleusuites.in/
+LinkBehaviour_A4EC241B_868D_93F9_4165_F7CC1AE9CB39.source = https://pontbleusuites.in/book-now/
+LinkBehaviour_02E3A1FC_4761_E3AC_4195_DDF14DEBBBE7.source = https://pontbleusuites.in/book-now/
+LinkBehaviour_15B512B9_47A7_A1B4_41BE_11FDA22E0435.source = https://pontbleusuites.in/book-now/
+LinkBehaviour_7C937EF7_4561_E1BC_41C4_7E659DDE60E8.source = https://www.facebook.com/profile.php?id=100086908626016
+LinkBehaviour_198F30E1_3FEA_A664_41CF_51214C5DC788.source = https://www.facebook.com/profile.php?id=100086908626016
+WebFrame_15767202_47A2_A054_41BE_6B71ADDFD586.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3853.9765472740078!2d74.0559689734817!3d14.99400706732723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbe5be0213a1665%3A0x2a157dab63ec1df4!2sPont%20Bleu%20Suites!5e0!3m2!1sen!2sin!4v1697678582485!5m2!1sen!2sin
+WebFrame_0C2CE1AB_47A1_E054_41D0_57B221F5E1A0.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3853.9765472740078!2d74.0559689734817!3d14.99400706732723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbe5be0213a1665%3A0x2a157dab63ec1df4!2sPont%20Bleu%20Suites!5e0!3m2!1sen!2sin!4v1697678582485!5m2!1sen!2sin
+LinkBehaviour_7C922EF8_4561_E1B4_41B0_272EA86F9F28.source = https://www.instagram.com/pontbleu_suites_goa/
+LinkBehaviour_1723F688_3FED_6AA5_41A8_012183A3E53A.source = https://www.instagram.com/pontbleu_suites_goa/
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_3359014F_91E2_1C40_41C3_FE8219408B03.text = Back
+HotspotPanoramaOverlayTextImage_0936BC5B_91A2_0440_41E0_6ABD9E6AB1AC.text = Back
+HotspotPanoramaOverlayTextImage_3336611F_91E2_1DC0_4192_D8385D064BB3.text = Back
+HotspotPanoramaOverlayTextImage_01715320_91BE_3DC0_41CE_4AA05CB5DC7C.text = Back
+HotspotPanoramaOverlayTextImage_A6396A0B_90A2_0FC0_417B_46428E3A461B.text = Back
+HotspotPanoramaOverlayTextImage_0E65D937_91E6_0DC0_41D3_CE1D1457C3EF.text = Back
+HotspotPanoramaOverlayTextImage_01B650EB_91A6_1C40_41B0_8918AFCB683B.text = Back
+HotspotPanoramaOverlayTextImage_A4C9532B_90AE_1DC0_41E0_AE5FB1D5214C.text = Back
+HotspotPanoramaOverlayTextImage_BA268346_90AE_7C40_41CB_F6F8D23164BF.text = Back
+HotspotPanoramaOverlayTextImage_BC7C7D49_90A6_0440_41AE_FDF36F3CF606.text = Back
+HotspotPanoramaOverlayTextImage_BFADD0FC_90A2_1C40_41CA_561C26C4AA82.text = Back
+HotspotPanoramaOverlayTextImage_BE45099A_90A2_0CC0_41E1_E160B618DE72.text = Back
+HotspotPanoramaOverlayTextImage_046372F0_91AE_7C40_41C2_B36E417378E2.text = Back
+HotspotPanoramaOverlayTextImage_A852E192_90A6_1CC0_41E0_DE2E7F437D2B.text = Back
+HotspotPanoramaOverlayTextImage_017C5D87_91A2_04C0_41D5_35051346E6E0.text = Back
+HotspotPanoramaOverlayTextImage_01D6FA6C_91A6_0C40_418E_7DC988154163.text = Back
+HotspotPanoramaOverlayTextImage_07C7B4DC_91A2_0440_41D8_BC1806C8567E.text = Back
+HotspotPanoramaOverlayTextImage_05A19245_91AE_3C40_41DB_C6EC99E5E1B3.text = Back
+HotspotPanoramaOverlayTextImage_ABBF194E_90A2_0C40_41AA_053EB54D0B72.text = Back
+HotspotPanoramaOverlayTextImage_0B972644_91A2_0440_41C5_D45B0BC2F511.text = Back
+HotspotPanoramaOverlayTextImage_14D2CDBE_3FB6_DEDC_41BF_98D3BB280B87.text = Celeste
+HotspotPanoramaOverlayTextImage_1BCBEA83_3FE9_C615_41BF_8050C6A2DB27.text = Inside
+HotspotPanoramaOverlayTextImage_21DA7F05_3FAA_DE12_4197_BF90C7949E5D.text = Inside
+HotspotPanoramaOverlayTextImage_1EC1E572_3FE6_C2F6_41CF_B6153D81690E.text = Inside
+HotspotPanoramaOverlayTextImage_164F788C_3FAB_C212_41C5_7FA5F08DE9D7.text = Inside
+HotspotPanoramaOverlayTextImage_163DAE01_3FAD_7DA4_41C0_5246975DA56E.text = Marie 
+HotspotPanoramaOverlayTextImage_16BB2CC2_3FAF_BEA4_41A7_003913177C35.text = Oscar
+HotspotPanoramaOverlayTextImage_14AC0FDB_3FAA_DAA4_4181_87D61A5D7B7C.text = Penthouse
+HotspotPanoramaOverlayTextImage_172DFA71_3FEA_BA64_41C5_E1BF3CD19D50.text = Pont Bleu
+HotspotPanoramaOverlayTextImage_14843EA0_3FAB_5AE4_41AF_CE96A82C2158.text = Pool
+HotspotPanoramaOverlayTextImage_7E941939_44E2_E0B4_41C1_4DF127CFA303.text = Property Entrance
+
+## Media
+
+### Image
+imlevel_07977CF2_91BE_0440_4181_0BFC62F398CF.url = media/panorama_1BA18D5E_3FFA_C22E_41BA_6F0A22DECF3C_HS_ji93mx5r_en.png
+imlevel_325F6559_91E6_0440_41CC_4D7653A09911.url = media/panorama_2F81BE1B_3F6B_7E36_41BB_109646AB1CE5_HS_vi023c0t_en.png
+imlevel_A85583C7_90A2_7C40_41DC_63B82751268D.url = media/panorama_340159E2_3A66_5175_41C2_14B16D367857_HS_kkkc0rfa_en.png
+imlevel_1FF5B279_3FA6_C6F2_41CE_8EB35340912A.url = media/panorama_340159E2_3A66_5175_41C2_14B16D367857_HS_pft1h0tr_en.png
+imlevel_07941CD1_91BE_0440_41E0_9FA1DC3AE587.url = media/panorama_343C18BC_3A66_5FCD_41C7_CCFFBE36E74F_HS_pkkmh0n3_en.png
+imlevel_07956C9D_91BE_04C0_41D3_21242D4E6556.url = media/panorama_343C4D63_3A66_B17B_41B8_BF81B3B26110_HS_8u9isg6s_en.png
+imlevel_07919C29_91BE_0BC0_41E1_9F02C16B9994.url = media/panorama_343D200E_3A5A_4ECD_41C3_99C86194BF35_HS_vipgjqgl_en.png
+imlevel_194D5150_3FAA_C232_41C2_35E3CF9D2954.url = media/panorama_343D4946_3A67_FEBD_41BB_C248EE84326B_HS_k2gw4ex0_en.png
+imlevel_A85413E0_90A2_7C40_41E0_D3C47013FFC1.url = media/panorama_343D4946_3A67_FEBD_41BB_C248EE84326B_HS_v35pry02_en.png
+imlevel_0790EC50_91BE_0440_41DC_FBF3E5A4F24C.url = media/panorama_343E3B2D_3A59_B2CF_41A2_BBB976D33ED7_HS_ygycxn3f_en.png
+imlevel_07982D60_91BE_0440_41D1_D174BCDD876C.url = media/panorama_343E4E9E_3A66_B3CD_41B3_79F512B06496_HS_e79kpeu7_en.png
+imlevel_194E5171_3FAA_C2F2_41C3_DE88E04C263D.url = media/panorama_343F5A02_3A66_52B5_41B9_6936D8A80D10_HS_h4693vfb_en.png
+imlevel_A85323FB_90A2_7C40_41D8_243CBBEE075F.url = media/panorama_343F5A02_3A66_52B5_41B9_6936D8A80D10_HS_txvud1ov_en.png
+imlevel_079B6D84_91BE_04C0_41D3_0E9AE9326B59.url = media/panorama_343FD31F_3A66_B2CB_41C7_3C14E8DEFD16_HS_oexzbchm_en.png
+imlevel_A5006D1F_90A2_05C0_41CA_926E433A3AFF.url = media/panorama_34653BFE_3A5A_514D_41C1_DA0292197803_HS_xi4440h8_en.png
+imlevel_A503BD02_90A2_05C0_41D7_7C638A7BBCE1.url = media/panorama_34654794_3A5A_71DD_41CC_36A725067762_HS_ai7s1gfc_en.png
+imlevel_A5037CE8_90A2_0440_41DB_1C668944D564.url = media/panorama_34654F5D_3A5A_514F_41CB_C4135653E981_HS_v7k0lnma_en.png
+imlevel_13DD0060_3F9A_C212_4197_ADE6C38A8EB0.url = media/panorama_34658F11_3A5A_F2D7_41C5_C28ECE75F844_HS_91xqsqx8_en.png
+imlevel_A88EF607_90A2_07C0_4191_E5BFEE552653.url = media/panorama_34658F11_3A5A_F2D7_41C5_C28ECE75F844_HS_t0kwbezk_en.png
+imlevel_07991D38_91BE_05C0_41D7_406383B7E507.url = media/panorama_3550111C_3A66_CECD_41B8_D0E44E7CDE87_HS_7hoe55qf_en.png
+imlevel_07961D16_91BE_05C0_41C7_FF6B0F76851C.url = media/panorama_355FF774_3A66_D15D_41C3_BC051760DE13_HS_5daec1bi_en.png
+imlevel_16BABC55_3FD5_BDAC_41C5_CC03692EA636.url = media/panorama_35664BD7_3A5E_715B_41C7_BED4ACB7E657_HS_j77nhqkm_en.png
+imlevel_A501BD3C_90A2_05C0_41BD_AE23F5DCDD9D.url = media/panorama_35DF4209_3A59_F2B7_41B6_6E5A2B133601_HS_gcuyb9zc_en.png
+imlevel_14B7C05D_3FB5_A65C_4195_E8CAC0B759C2.url = media/panorama_35EC664E_3A90_2947_41A6_A072F55F7C69_HS_5qazueyk_en.png
+imlevel_131C71F0_3FB5_A664_41A9_018590BD9789.url = media/panorama_35EC664E_3A90_2947_41A6_A072F55F7C69_HS_aplkp06h_en.png
+imlevel_14B22135_3FB5_A7EC_41C5_0AA3DAB342ED.url = media/panorama_35EC664E_3A90_2947_41A6_A072F55F7C69_HS_b3d809qu_en.png
+imlevel_131E41BD_3FB5_A6DF_41A6_A5BD1C687F36.url = media/panorama_35EC664E_3A90_2947_41A6_A072F55F7C69_HS_ojoz7yru_en.png
+imlevel_14B540BE_3FB5_A6DC_41CD_BAA83FB3B6F1.url = media/panorama_35EC664E_3A90_2947_41A6_A072F55F7C69_HS_wipxpeiy_en.png
+imlevel_0793EC78_91BE_0440_41D9_967DD83506B4.url = media/panorama_35FF9553_3A5A_515B_41BB_B7BD9426DC98_HS_7qiun0jc_en.png
+imlevel_079A0DA7_91BE_04C0_41DE_16A33920D69B.url = media/panorama_57B9D404_4361_A05C_41C8_2BB5E9C72A44_HS_584p95p8_en.png
+imlevel_7BD3D299_44A2_A074_41AF_8BC5E35C0275.url = media/panorama_7E295955_44E1_60FE_419E_0DB679154A49_HS_c80xv7uc_en.png
+imlevel_6050123C_45A2_A0AC_4110_619A8DACBF00.url = media/popup_6031BC05_455E_A05C_41C4_495712D89B16_en_0_0.jpg
+imlevel_6057123C_45A2_A0AC_41CA_0B80C2CDCF58.url = media/popup_6031BC05_455E_A05C_41C4_495712D89B16_en_0_1.jpg
+imlevel_6057023C_45A2_A0AC_41B9_B4A5952923C3.url = media/popup_6031BC05_455E_A05C_41C4_495712D89B16_en_0_2.jpg
+imlevel_6057723D_45A2_A0AC_4181_E02472DDE4EB.url = media/popup_6031BC05_455E_A05C_41C4_495712D89B16_en_0_3.jpg
+imlevel_604BBEEF_45A2_A1AC_41CC_B87BB579A270.url = media/popup_6050EBB3_4561_A7B4_41CD_7967F4B05913_en_0_0.jpg
+imlevel_604B8EEF_45A2_A1AC_41B3_2C675A5C62FF.url = media/popup_6050EBB3_4561_A7B4_41CD_7967F4B05913_en_0_1.jpg
+imlevel_604B9EEF_45A2_A1AB_41BD_210F18F29452.url = media/popup_6050EBB3_4561_A7B4_41CD_7967F4B05913_en_0_2.jpg
+imlevel_604BEEF0_45A2_A1B4_41BE_66DF46790498.url = media/popup_6050EBB3_4561_A7B4_41CD_7967F4B05913_en_0_3.jpg
+imlevel_604DBCC9_45A2_A1D4_41C1_3EC61823083A.url = media/popup_60D69E29_45A1_A054_41CD_7860115D9795_en_0_0.jpg
+imlevel_604CBCC9_45A2_A1D4_41AB_A233CF8587AD.url = media/popup_60D69E29_45A1_A054_41CD_7860115D9795_en_0_1.jpg
+imlevel_604C8CC9_45A2_A1D4_41B3_DD787208B3A5.url = media/popup_60D69E29_45A1_A054_41CD_7860115D9795_en_0_2.jpg
+imlevel_604C9CC9_45A2_A1D4_419D_5122FDDF1F82.url = media/popup_60D69E29_45A1_A054_41CD_7860115D9795_en_0_3.jpg
+imlevel_60447857_45A2_A0FC_41CF_5A786AF2016B.url = media/popup_60D95AD2_45A2_A1F4_41CC_5CB3E67B472B_en_0_0.jpg
+imlevel_60444857_45A2_A0FC_41BD_A899E9D9E643.url = media/popup_60D95AD2_45A2_A1F4_41CC_5CB3E67B472B_en_0_1.jpg
+
+### Popup Image
+
+### Title
+photo_64D9BB75_44AF_E0BC_418A_FD5DED6186A5.label = 20231014_105944814_iOS
+photo_64D9BB75_44AF_E0BC_418A_FD5DED6186A5.label = 20231014_105944814_iOS
+panorama_344CB34B_3A5E_F14B_41CC_5E701384CCA9.label = Backwaters
+panorama_57B9D404_4361_A05C_41C8_2BB5E9C72A44.label = Celeste Bathroom
+panorama_3550111C_3A66_CECD_41B8_D0E44E7CDE87.label = Celeste Inside 1
+panorama_343FD31F_3A66_B2CB_41C7_3C14E8DEFD16.label = Celeste Inside 4
+panorama_343E4E9E_3A66_B3CD_41B3_79F512B06496.label = Celeste Inside 5
+panorama_343F5A02_3A66_52B5_41B9_6936D8A80D10.label = Celeste Outside 1
+album_32A0CDD3_3E5B_BEAB_41A8_4A5CF9615104_0.label = Drone pic 1
+album_32A0CDD3_3E5B_BEAB_41A8_4A5CF9615104_1.label = Drone pic 2
+panorama_7E295955_44E1_60FE_419E_0DB679154A49.label = Entrance
+panorama_344C4C4E_3A5E_574D_419C_E6F7C6BCAF2F.label = Entry Corridor
+panorama_35EC664E_3A90_2947_41A6_A072F55F7C69.label = Landing page
+panorama_344CAA50_3A5E_B355_41B3_DE9F09F50A2A.label = Lounge
+panorama_355FF774_3A66_D15D_41C3_BC051760DE13.label = Mary Bathroom
+panorama_343C4D63_3A66_B17B_41B8_BF81B3B26110.label = Mary Inside 2
+panorama_343C18BC_3A66_5FCD_41C7_CCFFBE36E74F.label = Mary Inside 3
+panorama_1BA18D5E_3FFA_C22E_41BA_6F0A22DECF3C.label = Mary Inside 7
+panorama_343D4946_3A67_FEBD_41BB_C248EE84326B.label = Mary Outside 1
+panorama_35FF9553_3A5A_515B_41BB_B7BD9426DC98.label = Oscar Bathroom
+panorama_343D200E_3A5A_4ECD_41C3_99C86194BF35.label = Oscar Inside 1
+panorama_343E3B2D_3A59_B2CF_41A2_BBB976D33ED7.label = Oscar Inside 2
+panorama_340159E2_3A66_5175_41C2_14B16D367857.label = Oscar Outside 3
+panorama_35DF4209_3A59_F2B7_41B6_6E5A2B133601.label = Penthouse Bathroom
+panorama_34653BFE_3A5A_514D_41C1_DA0292197803.label = Penthouse Inside 1
+panorama_34654794_3A5A_71DD_41CC_36A725067762.label = Penthouse Inside 2
+panorama_34654F5D_3A5A_514F_41CB_C4135653E981.label = Penthouse Inside 4
+panorama_34658F11_3A5A_F2D7_41C5_C28ECE75F844.label = Penthouse Outside 2
+panorama_3465FB0D_3A5A_D2CF_41B0_B27CF7FE81A7.label = Penthouse Outside 3
+panorama_3465A72C_3A5A_B2CD_41A4_CF51DC6F2519.label = Penthouse Outside 4
+panorama_3465372B_3A5A_D2CB_41B1_302CD0A05236.label = Penthouse at Night
+panorama_3466DFB5_3A59_B1DF_41C4_AE092FBEA474.label = Penthouse at Night
+panorama_341BCCCB_3A59_F74B_41CC_3997E23D3D39.label = Penthouse at Night
+album_32A0CDD3_3E5B_BEAB_41A8_4A5CF9615104.label = Photo Album Drone pic 1
+panorama_35664BD7_3A5E_715B_41C7_BED4ACB7E657.label = Pont Bleu
+panorama_2F81BE1B_3F6B_7E36_41BB_109646AB1CE5.label = Pool
+panorama_344CB61B_3A5F_D2CB_4185_F81C5556F0F7.label = Pool at Night
+
+## Skin
+
+### Button
+Button_7DBC8382_7065_343F_4183_17B44518DB40.label = 360 Gallery
+Button_7DBC8382_7065_343F_4183_17B44518DB40_mobile.label = 360 Gallery
+Button_236881C6_3A90_6B47_41A2_4BB8BEF4CEAE.label = BOOK NOW
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = Book Now
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = Book Now
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = Celeste Suite
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = Celeste Suite
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
+Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = Marie Suite
+Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = Marie Suite
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = Oscar Suite
+Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = Oscar Suite
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B_mobile.label = Penthouse Suite
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = Penthouse Suite
+Button_15779203_47A2_A054_41AD_A31DF29FCDCD.label = lorem ipsum
+
+### Image
+Image_06AAFA09_4762_E054_41CB_A1F0DF18ABCF.url = skin/Image_06AAFA09_4762_E054_41CB_A1F0DF18ABCF_en.jpeg
+Image_236901C5_3A90_6B45_41A8_ED5ACE29606B.url = skin/Image_236901C5_3A90_6B45_41A8_ED5ACE29606B_en.jpeg
+Image_2B65C80F_3AF0_18C5_41B1_F1B4286D272D_mobile.url = skin/Image_2B65C80F_3AF0_18C5_41B1_F1B4286D272D_mobile_en.png
+Image_57C0EBCA_4951_5AC9_41C8_B6042AD93C43.url = skin/Image_57C0EBCA_4951_5AC9_41C8_B6042AD93C43_en.jpg
+Image_5DADEF19_4951_BB4B_41AD_2BAF8B76F182.url = skin/Image_5DADEF19_4951_BB4B_41AD_2BAF8B76F182_en.png
+Image_61FAC798_48B3_4B49_41AC_DCC624E9D9CA.url = skin/Image_61FAC798_48B3_4B49_41AC_DCC624E9D9CA_en.jpg
+Image_6D5773E8_4971_CAC9_41C9_7AD262C2BAA2.url = skin/Image_6D5773E8_4971_CAC9_41C9_7AD262C2BAA2_en.jpg
+Image_7421E31E_4566_A06C_419C_F61B902881B4.url = skin/Image_7421E31E_4566_A06C_419C_F61B902881B4_en.jpg
+Image_79199C34_44E7_60BC_41BE_F946B97D0E0F.url = skin/Image_79199C34_44E7_60BC_41BE_F946B97D0E0F_en.jpg
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_en.jpg
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile_en.jpg
+Image_921AA87F_8546_5B82_41DA_406EC10289FE.url = skin/Image_921AA87F_8546_5B82_41DA_406EC10289FE_en.png
+Image_9C4B8781_8541_D57E_41D3_AF5934D30B62.url = skin/Image_9C4B8781_8541_D57E_41D3_AF5934D30B62_en.png
+Image_A547C63F_85C3_D782_41C4_453804240210.url = skin/Image_A547C63F_85C3_D782_41C4_453804240210_en.png
+
+### Label
+Label_9C39940A_857E_6B82_41BF_3FF93C837FDE.text = Tour Navigation Menu
+
+### Multiline Text
+HTMLText_9C584663_8542_5782_4187_339701954A0A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:30px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:30px;font-family:'DecoType Naskh Regular';">M</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:30px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:30px;font-family:'DecoType Naskh Regular';">E</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:30px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:30px;font-family:'DecoType Naskh Regular';">N</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:30px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:30px;font-family:'DecoType Naskh Regular';">U</SPAN></SPAN></DIV></div>
+HTMLText_991CEB3D_85BE_DD86_41DF_6963B5531965.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:25px;font-family:'DecoType Naskh Regular';">M</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:25px;font-family:'DecoType Naskh Regular';">E</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:25px;font-family:'DecoType Naskh Regular';">N</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:25px;font-family:'DecoType Naskh Regular';">U</SPAN></SPAN></DIV></div>
+HTMLText_06AA4A09_4762_E054_41C4_C221A8A4F267.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:153%;text-align:left;font-size:2.5vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#663300;font-size:2.5vh;font-family:'Oswald Regular';"><B>CONTACT US:</B></SPAN></SPAN></DIV><DIV STYLE="line-height:153%;text-align:left;font-size:2.5vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:2.5vh;font-family:'Oswald Regular';"><I>Website: </I></SPAN><SPAN STYLE="color:#663300;font-size:2.5vh;font-family:'Oswald Regular';"><I>pontbleusuites.in</I></SPAN></SPAN></DIV><DIV STYLE="line-height:153%;text-align:left;font-size:2.5vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:2.5vh;font-family:'Oswald Regular';"><I>E-mail: </I></SPAN><SPAN STYLE="color:#663300;font-size:2.19vh;font-family:'Oswald Regular';"><I>welcome@pontbleusuites.in</I></SPAN></SPAN></DIV><DIV STYLE="line-height:153%;text-align:left;font-size:2.5vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:2.5vh;font-family:'Oswald Regular';"><I>Contact No: </I></SPAN><SPAN STYLE="color:#663300;font-size:2.5vh;font-family:'Oswald Regular';"><I>+91 972390491</I></SPAN></SPAN></DIV><DIV STYLE="line-height:153%;text-align:left;font-size:2.5vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:2.5vh;font-family:'Oswald Regular';"><I>Address: </I></SPAN><SPAN STYLE="color:#663300;font-size:2.5vh;font-family:'Oswald Regular';"><I>Blue Bridge Sadolxem, Canacona</I></SPAN></SPAN></DIV></div>
+HTMLText_7919DC34_44E7_60BC_416D_80F2D5C159A6.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:85%;text-align:left;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#663300;font-size:25px;font-family:'Dancing Script';"><B>Tongue drum</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:25px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6.98px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:85%;text-align:left;font-size:25px;"><SPAN STYLE="vertical-align:super;display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:25px;font-family:'Dancing Script';"><B>percussion instrument to play meditation music</B></SPAN></SPAN></DIV></div>
+HTMLText_61FA0798_48B3_4B49_41C9_7A4D407B1255.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:85%;text-align:left;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#663300;font-size:25px;font-family:'Dancing Script';"><B>Tongue drum</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:25px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6.98px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:85%;text-align:left;font-size:25px;"><SPAN STYLE="vertical-align:super;display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:25px;font-family:'Dancing Script';"><B>percussion instrument to play meditation music</B></SPAN></SPAN></DIV></div>
+HTMLText_6B0BC513_4566_E074_4191_26613D8AEA7C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.830000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.83vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.24249699879952vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#663300;font-size:6.24vh;font-family:'Dancing Script';"><B>Tongue drum</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.594180704441041vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.2vh;">,</SPAN><SPAN STYLE="font-size:4.59vh;font-family:'Dancing Script';"><B>percussion instrument to play meditation music</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_6D4851A0_495F_4779_41C4_816BAD90746E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.9062499999999996vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#663300;font-size:3.91vh;font-family:'Dancing Script';"><B>Memory down the lane...</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.91vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.9062499999999996vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.91vh;font-family:'Dancing Script';"><B>riding these scooters your hosts visited South Goa from North Goa for the very first time</B></SPAN></SPAN></DIV></div>
+HTMLText_57C02BCA_4951_5AC9_41CB_DAB045A58E04.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.24249699879952vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#663300;font-size:6.24vh;font-family:'Dancing Script';"><B>Memory down the lane...</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.561824729891956vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.56vh;font-family:'Dancing Script';"><B>riding these scooters your hosts visited South Goa from North Goa for the very first time</B></SPAN></SPAN></DIV></div>
+HTMLText_15778202_47A2_A054_41B8_AD5A706953B2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.480000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.48vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.959999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.96vh;font-family:'Bebas Neue Bold';">location</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.07vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.0200000000000005vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:4.02vh;font-family:'Bebas Neue Bold';">address line 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.0200000000000005vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:4.02vh;font-family:'Bebas Neue Bold';">address line 2</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.54vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.74vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac.</SPAN></SPAN></DIV></div>
+HTMLText_2368F1C6_3A90_6B47_41B5_5162E1E0CF16.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.8007202881152455vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#663333;font-size:1.8vh;font-family:'Oswald Regular';"><I>At</I></SPAN><SPAN STYLE="color:#999999;font-size:1.8vh;font-family:'Oswald Regular';"><I> </I></SPAN><SPAN STYLE="color:#660000;font-size:1.8vh;font-family:'Oswald Regular';"><I>Pont Bleu Suites</I></SPAN><SPAN STYLE="color:#999999;font-size:1.8vh;font-family:'Oswald Regular';"><I> </I></SPAN><SPAN STYLE="color:#663333;font-size:1.8vh;font-family:'Oswald Regular';"><I>you will find an elegant property surrounded by a tropical lush garden and situated on the banks of Talpona river.</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.8vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8007202881152455vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#663333;font-size:1.8vh;font-family:'Oswald Regular';"><I>The property is recently built, with a modern yet authentic eye for design to bring it up to the standard you find now.</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.8vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8007202881152455vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#663333;font-size:1.8vh;font-family:'Oswald Regular';"><I>Everything about this business exhumes comfort and serenity.  Everything is personal without the service being too overbearing, just right to still be personal yet respectful of the guest’s private space.   </I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.8vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8007202881152455vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#663333;font-size:1.8vh;font-family:'Oswald Regular';"><I>Hotel facilities include </I></SPAN><SPAN STYLE="color:#663333;font-size:1.8vh;font-family:'Oswald Regular';"><B><I>free parking, free Wi-Fi, an fully stocked bar and outdoor lounge, tropical gardens and soothing river views.</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.8vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.8vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_2AEC9322_3E55_6BE4_4194_3E47AB359230.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:40px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#987b55;font-size:40px;font-family:'Oswald Regular';"><B>CONTACT US:</B></SPAN></SPAN></DIV><DIV STYLE="line-height:188%;text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:24px;font-family:'Open Sans Semibold';">Website:</SPAN><SPAN STYLE="color:#999999;font-size:24px;font-family:'Open Sans Semibold';"> </SPAN><SPAN STYLE="color:#663333;font-size:24px;font-family:'Oswald Regular';"><I>pontbleusuites.in</I></SPAN></SPAN></DIV><DIV STYLE="line-height:188%;text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:24px;font-family:'Open Sans Semibold';">E-mail: </SPAN><SPAN STYLE="color:#663333;font-size:24px;font-family:'Oswald Regular';"><I>welcome@pontbleusuites.in</I></SPAN></SPAN></DIV><DIV STYLE="line-height:188%;text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:24px;font-family:'Open Sans Semibold';">Contact No: </SPAN><SPAN STYLE="color:#663333;font-size:24px;font-family:'Oswald Regular';"><I>+91 972390491</I></SPAN></SPAN></DIV><DIV STYLE="line-height:188%;text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:24px;font-family:'Open Sans Semibold';">Address:</SPAN><SPAN STYLE="color:#999999;font-size:24px;font-family:'Open Sans Semibold';"> </SPAN><SPAN STYLE="color:#663333;font-size:24px;font-family:'Oswald Regular';"><I>Blue Bridge Sadolxem, Canacona</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:24px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:7.84px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Pont Bleu
